@@ -1,2 +1,2 @@
 # PowerShell Tools
-PowerShell Administration and Windows Scripts
+PowerShell Admin Tools Scripts
